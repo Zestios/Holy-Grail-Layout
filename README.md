@@ -1,6 +1,6 @@
 # The Holy Grail of Layout
 
-In this flexbox exercise I recreated a common website layout. It is called the [Holy Grail](https://www.google.com/search?q=holy+grail+layout&tbm=isch&sclient=img) layout... and with flexbox it was actually pretty easy to pull off.
+This project was created as part of The Odin Project curriculum. In this flexbox exercise I recreated a common website layout. It is called the [Holy Grail](https://www.google.com/search?q=holy+grail+layout&tbm=isch&sclient=img) layout... and with flexbox it was actually pretty easy to pull off.
 
 Some HTML was provided, but I changed a few things around to create the intended layout.
 
